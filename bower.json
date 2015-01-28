@@ -1,0 +1,23 @@
+{
+  "name": "gentry",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cambell-prince/frontaccounting",
+  "authors": [
+    "Cambell <cambell.prince@gmail.com>"
+  ],
+  "description": "Data entry module for FrontAccounting using a Grid control",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-ui-grid": "~3.0.0-rc.16",
+    "ng-file-upload": "~2.2.2",
+    "ui-router": "~0.2.13"
+  }
+}

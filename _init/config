@@ -1,0 +1,11 @@
+Package: sgw_gentry
+Version: 2.3.22-1
+Name: CSV data import and grid entry
+Description: This module provides rapid editing of multiple transactions (optionally from a CSV file) and imports them into FrontAccounting. 
+Author: Cambell Prince <cambell.prince@gmail.com>
+Maintenance: Cambell Prince <cambell.prince@gmail.com>
+Homepage: https://github.com/cambell-prince/frontaccounting-mod-gentry
+Type: extension
+InstallPath: modules/sgw_gentry
+Filename: sgw_gentry-2.3.22-1
+
